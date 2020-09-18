@@ -1,0 +1,11 @@
+{
+  "name": "@gm5/mail",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "邮件收发管理",
+  "main": "index.js",
+  "author": "yutent",
+  "keywords": ["fivejs", "controller", "http"],
+  "repository": "https://github.com/bytedo/gmf.mail.git",
+  "license": "MIT"
+}
